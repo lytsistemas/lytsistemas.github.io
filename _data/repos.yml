@@ -1,11 +1,5 @@
 ---
 repos:
-- name: lytsistemas.github.io
-  description:
-  url: https://github.com/lytsistemas/lytsistemas.github.io
-  stars: 0
-  language:
-  updated_at: '2025-02-21T19:06:35Z'
 - name: sala-cine-python
   description: Ejercicio para la reserva de asientos, ejercicio final del curso de
     python.
