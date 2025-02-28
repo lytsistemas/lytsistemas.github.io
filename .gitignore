@@ -1,0 +1,32 @@
+# Archivos y carpetas generadas por Jekyll
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Archivos de configuración y dependencias
+Gemfile
+Gemfile.lock
+portfolio-jekyll-theme.gemspec
+*.gem
+
+# Archivos auxiliares y documentación
+LICENSE.md
+README.md
+more-jekyll-themes.html
+getting-started.html
+text-formatting-examples.html
+welcome-to-jekyll.html
+
+# Archivos de backup y scripts auxiliares
+backup_jekyll.sh
+build_and_run_jekyll.sh
+restore_jekyll.sh
+
+# Archivos relacionados con contenedores (Podman/Docker)
+Dockerfile
+podman build and run.txt
+
+# Archivos del sistema
+*.log
+*.DS_Store
+*.swp
