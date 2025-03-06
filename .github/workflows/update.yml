@@ -20,7 +20,7 @@ jobs:
           bundler-cache: true
 
       - name: Ejecutar el script de actualización
-        run: ruby update_repos.rb
+        run: ruby .github/workflows/update_repos.rb
 
       - name: Subir cambios si los hay
         run: |
