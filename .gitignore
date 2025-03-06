@@ -1,0 +1,37 @@
+# Ignorar archivos generados por Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+cache/
+tmp/
+
+# Ignorar dependencias de Ruby
+.bundle/
+vendor/
+Gemfile
+Gemfile.lock
+*.gemspec
+
+# Ignorar archivos específicos de virtualización con Podman
+*.podman
+podman-compose.yml
+containers/
+volumes/
+.env
+Dockerfile
+
+# Ignorar archivos de documentación y notas personales
+notas/
+docs/
+*.txt
+
+# Ignorar archivos del sistema y editores de código
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sh
+
+
+

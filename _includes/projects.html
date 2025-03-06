@@ -1,0 +1,16 @@
+<section>
+  <h4>🚀 Mis proyectos</h4>
+
+  {% for repo in site.data.repos.repos %}
+  <article class="project">
+    <h3>
+      <a href="{{ repo.url }}" target="_blank"><strong>{{ repo.name }}</strong></a>
+    </h3>
+    <p>{{ repo.description | default: "Sin descripción" }}</p>
+    <p>
+      ⭐ <strong>{{ repo.stars }}</strong> | 🛠 <strong>{{ repo.language }}</strong>
+    </p>
+  </article>
+  {% endfor %}
+</section>
+

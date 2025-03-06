@@ -1,0 +1,22 @@
+---
+repos:
+- name: sala-cine-python
+  description: Ejercicio para la reserva de asientos, ejercicio final del curso de
+    python.
+  url: https://github.com/lytsistemas/sala-cine-python
+  stars: 0
+  language: Python
+  updated_at: '2025-02-21T18:59:32Z'
+- name: angular-springboot-mongo
+  description: Aplicación web para el envío y gestión de sugerencias
+  url: https://github.com/lytsistemas/angular-springboot-mongo
+  stars: 0
+  language: TypeScript
+  updated_at: '2025-02-21T18:55:37Z'
+- name: pvpc-flutter-app
+  description: Aplicación desarrollada en Flutter que permite a los usuarios consultar
+    los precios de la electricidad en España península.
+  url: https://github.com/lytsistemas/pvpc-flutter-app
+  stars: 0
+  language: Dart
+  updated_at: '2025-02-21T18:48:24Z'
