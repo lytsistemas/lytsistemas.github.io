@@ -1,5 +1,106 @@
 ---
 repos:
+- name: symfony-example
+  description: Symfony Web App es una aplicación web desarrollada con el framework
+    de Symfony que tiene secciones para usuario y administrador.
+  url: https://github.com/lytsistemas/symfony-example
+  stars: 0
+  language: PHP
+  updated_at: '2025-03-04T21:10:02Z'
+- name: django-uno
+  description: Ejemplo simple de aplicación con Django con secciones para administrador
+    y usuario.
+  url: https://github.com/lytsistemas/django-uno
+  stars: 0
+  language: Python
+  updated_at: '2025-03-04T12:26:39Z'
+- name: react-node-example
+  description: Este proyecto es una aplicación que utiliza React para el frontend
+    y Node.js para el backend
+  url: https://github.com/lytsistemas/react-node-example
+  stars: 0
+  language: JavaScript
+  updated_at: '2025-03-04T12:23:23Z'
+- name: ionic-example
+  description: Este es un ejemplo de una aplicación creada con Ionic y Angular.
+  url: https://github.com/lytsistemas/ionic-example
+  stars: 0
+  language: TypeScript
+  updated_at: '2025-03-04T12:22:14Z'
+- name: react-hooks-example
+  description: Este proyecto es un ejemplo del uso de React Hooks en una aplicación
+    de front-end. Los hooks de React permiten usar el estado y otras características
+    de React sin escribir una clase.
+  url: https://github.com/lytsistemas/react-hooks-example
+  stars: 0
+  language: JavaScript
+  updated_at: '2025-03-04T11:31:26Z'
+- name: springboot-jpa-example
+  description: Ejemplo de microservicio CRUD sobre Customer con Spring Boot, BBDD
+    H2 y JPA.
+  url: https://github.com/lytsistemas/springboot-jpa-example
+  stars: 0
+  language: Java
+  updated_at: '2025-03-04T11:29:29Z'
+- name: tabla-personalizada-ejemplo
+  description: Directiva Angular de ordenación y filtrado para tabla de datos genérica
+  url: https://github.com/lytsistemas/tabla-personalizada-ejemplo
+  stars: 0
+  language: TypeScript
+  updated_at: '2025-03-04T11:25:09Z'
+- name: laminas-framework-example
+  description: Este proyecto es un formulario desarrollado con el framework Laminas.
+    Permite la confirmación de recepción de la información enviada a través del formulario.
+  url: https://github.com/lytsistemas/laminas-framework-example
+  stars: 0
+  language: PHP
+  updated_at: '2025-03-04T11:19:20Z'
+- name: node-crud-swagger-example
+  description: Este proyecto es un servicio RESTful básico para la gestión de usuarios,
+    desarrollado con Node.js y documentado automáticamente con Swagger
+  url: https://github.com/lytsistemas/node-crud-swagger-example
+  stars: 0
+  language: JavaScript
+  updated_at: '2025-03-04T11:06:49Z'
+- name: ajax-jquery-example
+  description: Ejemplo simple de cómo usar jQuery para realizar una solicitud AJAX
+  url: https://github.com/lytsistemas/ajax-jquery-example
+  stars: 0
+  language: JavaScript
+  updated_at: '2025-03-04T11:05:35Z'
+- name: jquery4-example
+  description: Ejemplo de cómo utilizar jQuery 4 BETA en un proyecto web.
+  url: https://github.com/lytsistemas/jquery4-example
+  stars: 0
+  language: JavaScript
+  updated_at: '2025-03-04T11:02:01Z'
+- name: visualizador-props-example
+  description: Este proyecto es un ejemplo simple de cómo utilizar props en un componente
+    de React
+  url: https://github.com/lytsistemas/visualizador-props-example
+  stars: 0
+  language: JavaScript
+  updated_at: '2025-03-04T11:01:21Z'
+- name: notas-pwa
+  description: Notas PWA is a Progressive Web Application built with Angular and Firebase
+  url: https://github.com/lytsistemas/notas-pwa
+  stars: 0
+  language: TypeScript
+  updated_at: '2025-03-04T10:55:57Z'
+- name: lista-angular
+  description: Lista básica en Angular donde se pueden añadir elementos
+  url: https://github.com/lytsistemas/lista-angular
+  stars: 0
+  language: TypeScript
+  updated_at: '2025-03-04T10:49:57Z'
+- name: modulo-comentarios
+  description: Este módulo proporciona funcionalidad para gestionar comentarios en
+    una aplicación web con el framework Laminas. Permite crear, leer, actualizar y
+    eliminar comentarios.
+  url: https://github.com/lytsistemas/modulo-comentarios
+  stars: 0
+  language: PHP
+  updated_at: '2025-03-04T10:46:30Z'
 - name: sala-cine-python
   description: Ejercicio para la reserva de asientos, ejercicio final del curso de
     python.
